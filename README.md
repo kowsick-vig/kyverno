@@ -1,6 +1,4 @@
 
----
-
 # 🛡️ Kyverno Default-Deny NetworkPolicy Generator
 
 This Kyverno `ClusterPolicy` automatically creates a **default deny-all `NetworkPolicy`** in any new **Namespace**.
