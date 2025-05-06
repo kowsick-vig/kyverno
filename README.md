@@ -1,10 +1,3 @@
-Perfect — you're building a **Kyverno project** for GitHub and you want to **properly explain** in your `README.md` file **how to implement** your `add-networkpolicy` ClusterPolicy.
-
-I'll help you structure it professionally.
-
----
-
-Here’s a clean, easy-to-understand explanation you can put in your **README**:
 
 ---
 
@@ -25,13 +18,6 @@ It helps enforce a **zero-trust** model by **blocking all ingress and egress tra
 * Application teams must define additional `NetworkPolicy` resources to allow specific traffic as needed.
 * This improves cluster security and aligns with **EKS Best Practices** and **multi-tenancy models**.
 
----
-
-## 📦 YAML for the ClusterPolicy
-
-```yaml
-# (Paste your YAML here — you already have it ready.)
-```
 
 ---
 
